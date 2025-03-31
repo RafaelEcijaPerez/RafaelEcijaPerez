@@ -34,7 +34,7 @@
 
 ## ⚡ Fun fact  
 💡 Me encanta el **wrestling** y no me avergüenzo. 💪  
-![Wrestling](https://media.giphy.com/media/3o7aD1mZ9dXFOa7zHi/giphy.gif)
+![Wrestling]([https://media.giphy.com/media/3o7aD1mZ9dXFOa7zHi/giphy.gif](https://media.tenor.com/7gEdxzhPcu0AAAAM/la-knight-entrance.gif))
 
 😄 Siempre dispuesto a colaborar en proyectos interesantes 🚀  
 
