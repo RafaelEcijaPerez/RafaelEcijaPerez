@@ -38,7 +38,4 @@
 
 😄 Siempre dispuesto a colaborar en proyectos interesantes 🚀  
 
----
-
-🔥 _"El código es poesía, y cada línea es un verso."_  
 
