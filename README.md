@@ -6,26 +6,25 @@
 ---
 
 ## 🚀 Sobre mí  
-🔹 **Full Stack Developer** con experiencia en ![Tech Stack](https://img.shields.io/badge/Tech-Stack-blue)  
+🔹 ## 🚀 Sobre mí  
+🔹 **Full Stack Developer** con experiencia en:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
 🔹 Apasionado por el código limpio y las buenas prácticas  
 🔹 Siempre aprendiendo algo nuevo 📚  
 
 ---
 
 ## 💡 ¿En qué estoy trabajando?  
-🔧 Actualmente desarrollando **[nombre de tu proyecto]**  
-🔥 Explorando nuevas tecnologías como **[tecnología en tendencia que te interese]**  
+🔧 Actualmente desarrollando para vorticesoft  
+🔥 Explorando nuevas tecnologías como flutter y go  
 
 ---
 
-## 🛠️ Tech Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-
----
 
 ## 📊 GitHub Stats  
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelEcijaPerez&show_icons=true&theme=radical)  
@@ -33,15 +32,10 @@
 
 ---
 
-## 🌎 Conéctate conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuusuario/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://tuportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)  
-
----
-
 ## ⚡ Fun fact  
-💡 Me encanta **[tu hobby o algo curioso sobre ti]**  
+💡 Me encanta el **wrestling** y no me avergüenzo. 💪  
+![Wrestling](https://media.giphy.com/media/3o7aD1mZ9dXFOa7zHi/giphy.gif)
+
 😄 Siempre dispuesto a colaborar en proyectos interesantes 🚀  
 
 ---
